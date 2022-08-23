@@ -17,6 +17,7 @@ Para el final del mismo, volvimos a dividirnos algunos pendientes que restaban.
 
 - Definir tiempo estimado para realizar cada tarea.
 - Dejar plasmado en Trello las tareas realizadas durante cada encuentro,  como así también la tareas pendientes para una mayor claridad  y optimización del tiempo en la siguiente reunión. 
+- Interactuar más sobre el repositorio remoto y no únicamente sobre archivo local. 
 
 
 
@@ -37,10 +38,5 @@ Para el final del mismo, volvimos a dividirnos algunos pendientes que restaban.
 - Frenar el avance del proyecto por trabarse sobre un ejercicio/tarea que no sale. 
 
 
-## **Dejar de hacer**: 🚫
-
-- Trabajar únicamente sobre archivo local sin generar un repositorio remoto.
-- Esperar a finalizar el sprint para subirlo a gitHub.
 
 
---- 
