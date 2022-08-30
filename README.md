@@ -6,4 +6,4 @@ SPRINT 5  -
 
 Usuario admin:
 ajaromezuk@hotmail.com 
-conttraseña: "123456"
+contraseña: "123456"
